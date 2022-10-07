@@ -1,4 +1,4 @@
-public class CheckOddEven0 {   // Save as "CheckOddEven.java"
+public class CheckOddEven {   // Save as "CheckOddEven.java"
    public static void main(String[] args) {  // Program entry point
       int number = 0;       // Set the value of "number" here!
       System.out.println("The number is " + number);
