@@ -14,6 +14,6 @@ public class SumAverageRunningInt {   // Save as "SumAverageRunningInt.java"
       // Compute average in double. Beware that int / int produces int!
      
       // Print sum and average
-     System.out.println()
+     System.out.println();
    }
 }
