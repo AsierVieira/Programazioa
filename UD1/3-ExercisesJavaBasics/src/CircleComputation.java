@@ -17,8 +17,10 @@ public class CircleComputation{
         area = Math.PI * radius * radius;
         circumference = 2.0 * Math.PI * radius;
 
+    
         System.out.printf("Diameter is: %.2f%n", diameter);
+        System.out.printf("circumference is: %.2f%n", circumference);
+        System.out.printf("area is: %.2f%n", area);
     }
-
 
 }
